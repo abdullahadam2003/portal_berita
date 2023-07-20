@@ -1,0 +1,28 @@
+ body {
+    margin: 0; 
+    background-color: #424242;
+}
+  
+  .container {
+    width: 1000px;
+    margin: 0 auto;
+  }
+  
+  header img {
+    width: 200px;
+    float: left;
+  }
+  
+  header ul {
+    list-style: none;
+    float: left;
+  }
+  
+  header ul li {
+    float: left;
+  }
+  
+  .clear {
+    clear: both;
+  }
+  
